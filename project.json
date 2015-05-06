@@ -1,0 +1,30 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : true,
+    "frameRate" : 60,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d"],
+
+    "jsList" : [
+        "src/resource.js",
+        "src/BackGround.js",
+        "src/GameLayer.js",
+        "src/Building.js",
+        "src/Player.js",
+        "src/BackGroundMenu.js",
+        "src/StartGameButton.js",
+        "src/HowtoplayButton.js",
+        "src/Menu.js",
+        "src/BackGroundHowtoplay.js",
+        "src/Howtoplay.js",
+        "src/Gameover.js",
+        "src/BackGroundGameover.js",
+        "src/PlayagainButton.js",
+        "src/GotoMenuButton.js"
+    ]
+}
