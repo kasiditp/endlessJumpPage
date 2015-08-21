@@ -17,6 +17,12 @@ var Gameover = cc.LayerColor.extend({
         this.scoreLabel = cc.LabelTTF.create( 'YOUR SCORE : '+score, 'Arial', 25 );
         this.scoreLabel.setPosition( new cc.Point( 650, 550 ) );
         this.addChild( this.scoreLabel );
+
+        if(score >= 10){
+            this.answer =  cc.LabelTTF.create( 'Congraduation, you found the answer and beat my game. My name is Jub. Nice to meet you', 'Arial', 25 );
+            this.answer.setPosition( new cc.Point( 400, 300 ) );
+            this.addChild( this.answer  );
+        }
         
         this.checkSelect = 1;
         this.isAddStartgame = true;
