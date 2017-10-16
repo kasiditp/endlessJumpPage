@@ -1,2 +1,2 @@
 # endlessJumpPage
-by Kasidit
+by Kasidit Phoncharoen
