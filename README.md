@@ -1,4 +1,4 @@
 # endlessJumpPage
 by Kasidit Phoncharoen
 .
-by jibiko
+by sellsuku
