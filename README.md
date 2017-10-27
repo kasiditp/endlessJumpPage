@@ -1,2 +1,4 @@
 # endlessJumpPage
-by Kasidit Phoncharoen 5710546151
+by Kasidit Phoncharoen
+.
+by jibiko
